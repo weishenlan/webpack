@@ -1,0 +1,9 @@
+/* 样式文件需要使用loader进行解析 */
+.hello {
+    margin: 30px;
+    color: blue;
+}
+
+body {
+    background: url(cover.jpg) no-repeat;
+}
